@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Android Fragments</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_pm__fragment">PM_Fragment</string>
+    <string name="title_activity_lm__fragment">LM_Fragment</string>
+</resources>
