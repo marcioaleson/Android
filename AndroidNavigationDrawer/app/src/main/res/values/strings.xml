@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Navigation Drawer</string>
+    <string name="action_settings">Settings</string>
+
+
+    <string name="nav_item_home">Home</string>
+    <string name="nav_item_camera">Camera</string>
+    <string name="nav_item_gallery">Galeria</string>
+
+    <!-- navigation drawer item labels  -->
+    <string-array name="nav_drawer_labels">
+        <item>@string/nav_item_home</item>
+        <item>@string/nav_item_camera</item>
+        <item>@string/nav_item_gallery</item>
+    </string-array>
+
+
+    <string name="action_supervisor">Tutorial</string>
+    <string name="drawer_open">Abrir</string>
+    <string name="drawer_close">Fechar</string>
+</resources>

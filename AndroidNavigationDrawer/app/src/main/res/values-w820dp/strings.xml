@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_share" translatable="false">Compartilhar</string>
+    <string name="action_supervisor" translatable="false">Tutorial</string>
+    <string name="Camera" translatable="false">Camera</string>
+    <string name="Galeria" translatable="false">Galeria</string>
+    <string name="drawer_open" translatable="false">Abrir</string>
+    <string name="drawer_close" translatable="false">Fechar</string>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="list_background">#FFFFFF</color>
+    <color name="list_background_pressed">#CCD</color>
+    <color name="list_divider">#EEEEEE</color>
+    <color name="list_item_title">#FFF</color>
+    <color name="counter_text_color">#AAB</color>
+    <color name="colorPrimary">#37c1f5</color>
+    <color name="colorPrimaryDark">#3836c5</color>
+    <color name="textColorPrimary">#FFFFFF</color>
+    <color name="windowBackground">#FFFFFF</color>
+    <color name="navigationBarColor">#000000</color>
+    <color name="colorAccent">#2aff14</color>
+</resources>
