@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GUIDemo5</string>
+    <string name="action_settings">Settings</string>
+    <string name="example_imagebutton">Example showing ImageButton</string>
+    <string name="android_launcher_image"></string>
+</resources>

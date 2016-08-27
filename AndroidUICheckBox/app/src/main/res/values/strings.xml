@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CheckBox</string>
+    <string name="action_settings">Settings</string>
+    <string name="example_checkbox">Example showing CheckBox Control</string>
+    <string name="check_one">JAVA</string>
+    <string name="check_two">PERL</string>
+    <string name="check_three">PYTHON</string>
+    <string name="example_question">Worked on following Languages-</string>
+    <string name="title_activity_main2">Main2Activity</string>
+</resources>
