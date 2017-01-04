@@ -1,0 +1,7 @@
+#Wed Jan 04 05:49:07 BRST 2017
+base.0=C\:\\Users\\marci\\AndroidStudioProjects\\ActionBarCompat-Styled\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_3d8d27e8b346b8f2a4f0f755616df80aee30f7b0
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\marci\\AndroidStudioProjects\\ActionBarCompat-Styled\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_1765939cd997f525ec3549c50739e13625264a8c\\classes.dex
+base.1=C\:\\Users\\marci\\AndroidStudioProjects\\ActionBarCompat-Styled\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_1765939cd997f525ec3549c50739e13625264a8c
+file.0=C\:\\Users\\marci\\AndroidStudioProjects\\ActionBarCompat-Styled\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_3d8d27e8b346b8f2a4f0f755616df80aee30f7b0\\classes.dex

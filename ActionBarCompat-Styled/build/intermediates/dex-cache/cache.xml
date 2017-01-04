@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\marci\AndroidStudioProjects\ActionBarCompat-Styled\Application\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\marci\AndroidStudioProjects\ActionBarCompat-Styled\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.0.1_7be6bc7e0a76bae9bc17bc811f3646f4bb6448d7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\marci\AndroidStudioProjects\ActionBarCompat-Styled\Application\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="C:\Users\marci\AndroidStudioProjects\ActionBarCompat-Styled\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.0.1_9b57dbfb89589d0b14b094cf59007ad162349799\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\marci\AndroidStudioProjects\ActionBarCompat-Styled\Application\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="C:\Users\marci\AndroidStudioProjects\ActionBarCompat-Styled\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.0.1_ac9449917ce65c43cbb5d13187c4f15b1ddd8b8b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\marci\AndroidStudioProjects\ActionBarCompat-Styled\Application\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="C:\Users\marci\AndroidStudioProjects\ActionBarCompat-Styled\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.0.1_a6a463926d020f2fb0581b3548d8d72ff5f6a93a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\marci\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.1\support-annotations-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="C:\Users\marci\AndroidStudioProjects\ActionBarCompat-Styled\Application\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.0.1_e6fb0d1290214ba278091ff2a9a7ed103eefe420\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\marci\AndroidStudioProjects\ActionBarCompat-Styled\Application\build\intermediates\exploded-aar\com.android.support\gridlayout-v7\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4700f436ede140fb804204f806c9cc3f08e386f4">
+        <dex dex="C:\Users\marci\AndroidStudioProjects\ActionBarCompat-Styled\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-gridlayout-v7-25.0.1_1f07125ecc29a0c1451ea501c03e787d02a67686\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\marci\AndroidStudioProjects\ActionBarCompat-Styled\Application\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1b6f70cc9c98750891063e8a381b17a2d165a9e4">
+        <dex dex="C:\Users\marci\AndroidStudioProjects\ActionBarCompat-Styled\Application\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_1765939cd997f525ec3549c50739e13625264a8c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\marci\AndroidStudioProjects\ActionBarCompat-Styled\Application\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="C:\Users\marci\AndroidStudioProjects\ActionBarCompat-Styled\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.0.1_a04375aa593b6ec066c844349032cf0e1da40b21\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\marci\AndroidStudioProjects\ActionBarCompat-Styled\Application\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="C:\Users\marci\AndroidStudioProjects\ActionBarCompat-Styled\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.0.1_cf934218faf1584e1db4deac8dc92bf5ffcd447e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\marci\AndroidStudioProjects\ActionBarCompat-Styled\Application\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="C:\Users\marci\AndroidStudioProjects\ActionBarCompat-Styled\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.0.1_6c90d6da1f580c24a311e2544909266c50ad482d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\marci\AndroidStudioProjects\ActionBarCompat-Styled\Application\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="C:\Users\marci\AndroidStudioProjects\ActionBarCompat-Styled\Application\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_6fad6c37a0b926bbd0751c2f585bdeee808ae4cc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\marci\AndroidStudioProjects\ActionBarCompat-Styled\Application\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="C:\Users\marci\AndroidStudioProjects\ActionBarCompat-Styled\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.0.1_cce3546690d3368f87ba80ac9e5e2c0684e9a9e9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\marci\AndroidStudioProjects\ActionBarCompat-Styled\Application\build\intermediates\exploded-aar\com.android.support\cardview-v7\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1108575c7dc7b7f5b378b3290ac90de81a9b8830">
+        <dex dex="C:\Users\marci\AndroidStudioProjects\ActionBarCompat-Styled\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-25.0.1_e091cb2d1c839f050f6c84b32291890d19539dc8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\marci\AndroidStudioProjects\ActionBarCompat-Styled\Application\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="C:\Users\marci\AndroidStudioProjects\ActionBarCompat-Styled\Application\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_b1bc2b72d6814cf4f859f4e8385736b3ec3473f8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\marci\AndroidStudioProjects\ActionBarCompat-Styled\Application\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="C:\Users\marci\AndroidStudioProjects\ActionBarCompat-Styled\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.0.1_319e814d41fa7c0fc0b3239da2bc0564b02cc024\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\marci\AndroidStudioProjects\ActionBarCompat-Styled\Application\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="59c24b5b1adb78924c71ede54db2026de1c0d3cd">
+        <dex dex="C:\Users\marci\AndroidStudioProjects\ActionBarCompat-Styled\Application\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_3d8d27e8b346b8f2a4f0f755616df80aee30f7b0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\marci\AndroidStudioProjects\ActionBarCompat-Styled\Application\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="C:\Users\marci\AndroidStudioProjects\ActionBarCompat-Styled\Application\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_30d15228b902ba89407b63420b417a4885394e1a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\marci\AndroidStudioProjects\ActionBarCompat-Styled\Application\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\Users\marci\AndroidStudioProjects\ActionBarCompat-Styled\Application\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_5266a79d571d2e30267a61d04bbcfd99c71a4647\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\marci\AndroidStudioProjects\ActionBarCompat-Styled\Application\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="C:\Users\marci\AndroidStudioProjects\ActionBarCompat-Styled\Application\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_39d6a663268aaac0c3281f952ea1d633af1121aa\classes.dex" />
+    </item>
+
+</items>
