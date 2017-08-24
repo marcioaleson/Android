@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">AndroidSpinnerExample</string>
+    <string name="hello_world">Load Spinner</string>
 </resources>
