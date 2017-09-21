@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AndroidLocalizationExample</string>
+    <string name="hello_world">Hello World</string>
+</resources>
