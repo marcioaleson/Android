@@ -1,6 +1,7 @@
 package br.com.marcioaleson.androidnavigationexample;
 
 import android.annotation.SuppressLint;
+import android.app.ActionBar;
 import android.app.Activity;
 import android.support.v4.app.NavUtils;
 import android.support.v7.app.AppCompatActivity;
@@ -14,7 +15,8 @@ public class MainActivity2 extends Activity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main2);
-        getActionBar().setDisplayHomeAsUpEnabled(true);
+
+        this.getActionBar().setDisplayHomeAsUpEnabled(true);
     }
 
     @Override
